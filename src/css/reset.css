@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+    /* box-sizing: border-box; impede que os tamanhos dos elementos não obdeçam ao que foi atribuido. */
+}
+
+ul {
+    list-style: none;
+    /* deixa a lista sem a bolinas*/
+}
